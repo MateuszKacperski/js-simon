@@ -27,3 +27,9 @@ Buon lavoro e buon weekend!
 - 1 Creare la base html e css per visualizzare il timer e i numeri casuali
 
 - 2 Creo funzione che generi numeri random da 1 a 100
+
+- 3 Prendo dal dom i div del timer e dei numeri da visualizzare.
+
+- 4 Generare i 5 numeri casuali 
+
+- 5 tampo i numeri in paggina
