@@ -7,6 +7,7 @@ randomNumber = () => {
     return number;
 }
 
+
 // recupero gli elementi dal DOM
 const timerDisplay = document.getElementById('timer');
 const numbersDisplay = document.getElementById('numbers');
@@ -24,4 +25,24 @@ for(let i =0; i < 5; i++){
  numbersDisplay.innerText = numbers;
 
 console.log(numbers);
+
+
+//creo il timer 
+let timer = 30;
+
+timerDisplay.innerText = timer;
+
+//funzione timer
+countdown = timer => {
+
+    while(timer > 0){
+        timer--;
+        console.log(timer);
+    }
+
+}
+
+const decrese = setInterval( countdown(timer), 1000);    
+
+
 

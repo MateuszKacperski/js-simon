@@ -32,4 +32,4 @@ Buon lavoro e buon weekend!
 
 - 4 Generare i 5 numeri casuali 
 
-- 5 tampo i numeri in paggina
+- 5 Stampo i numeri in paggina
