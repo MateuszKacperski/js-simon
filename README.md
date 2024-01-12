@@ -19,3 +19,11 @@ Come detto, le validazioni
 Volendo, potreste provare a farlo con degli input che compaiono in pagina dopo che scompaiono i numeri, invece che coi prompt
 
 Buon lavoro e buon weekend!
+
+
+
+### Step logici 
+
+- 1 Creare la base html e css per visualizzare il timer e i numeri casuali
+
+- 2 
