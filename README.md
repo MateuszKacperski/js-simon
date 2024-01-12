@@ -26,4 +26,4 @@ Buon lavoro e buon weekend!
 
 - 1 Creare la base html e css per visualizzare il timer e i numeri casuali
 
-- 2 
+- 2 Creo funzione che generi numeri random da 1 a 100
